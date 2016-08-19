@@ -1,0 +1,27 @@
+{
+  "name": "esformatter-multiline-expression",
+  "version": "1.0.2",
+  "description": "Indent multiline expressions so that it stands out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasad Thondamuthur Vasanth (http://iamprasad88.github.io)",
+  "license": "MIT",
+  "dependencies": {
+    "rocambole-token": "^1.2.1",
+    "esformatter": "^0.9.6"
+  },
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamprasad88/esformatter-multiline-expression"
+  },
+  "keywords": [
+    "esformatter",
+    "expressions",
+    "expression",
+    "multiline"
+  ]
+}
